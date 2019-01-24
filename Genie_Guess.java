@@ -213,7 +213,7 @@ public class Genie_Guess{
    public static String welcomeExplanation(){
    
       String choice="Start";
-      JOptionPane.showMessageDialog(null,"Welcome to Gene Guesser!\n");
+      JOptionPane.showMessageDialog(null,"Welcome to Genie Guesser!\n");
    
       do{
          choice=JOptionPane.showInputDialog(null,"Would You like to use playing cards?\n(Please Enter: Yes Or No)\n(Q to Quit)");
