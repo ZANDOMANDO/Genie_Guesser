@@ -1,9 +1,6 @@
 # Genie_Guesser
 Guessing Program 
 /*
-Eduardo Garcia Espitia
-Contact me for internship opportunities: eduardo.di.garcia@gmail.com
-January 2018
 Welcome!
 This Guessing Program is based off a magic card trick that my father taught me as a child.
 It consists of 7 rows and 3 columns. Entries could be anything (cards or any input) while total
